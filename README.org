@@ -5,5 +5,5 @@ a fork of net.sourceforge.wilbur updated for mcl and sbcl
 |---------+------------------------------------------------|
 | source  | git:https://github.com/lisp/de.setf.wilbur.git |
 | commit  | c5c1321                                        |
-| systems | (wilbur)                                       |
+| systems | wilbur                                         |
 |---------+------------------------------------------------|
